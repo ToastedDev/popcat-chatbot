@@ -2,7 +2,7 @@ type Gender = "Male" | "Female";
 
 declare module "popcat-chatbot" {
   export class Chatbot {
-    constructor(options?: { name?: string; gender?: Gender; owner?: string });
+    constructor(options?: { name: string; gender: Gender; owner: string });
 
     public setName(name: string): this;
     public setGender(gender: Gender): this;
