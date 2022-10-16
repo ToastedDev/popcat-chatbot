@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "A wrapper of Pop Cat's chatbot API endpoint.",
   "main": "lib/index.js",
-  "types": "index.d.ts",
+  "types": "lib/index.d.ts",
   "repository": "https://github.com/NotTCA/popcat-chatbot",
   "author": "NotTCA",
   "license": "MIT",
