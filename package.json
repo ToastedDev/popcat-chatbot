@@ -15,6 +15,7 @@
     "ai"
   ],
   "scripts": {
+    "build": "tsc",
     "prepare": "npm run build"
   },
   "dependencies": {
