@@ -11,13 +11,7 @@ export type ChatbotOptions = {
 export class Chatbot {
   public readonly data: ChatbotOptions = {};
 
-  constructor(
-    options: ChatbotOptions = {
-      name: undefined,
-      gender: undefined,
-      owner: undefined,
-    }
-  ) {
+  constructor(options: ChatbotOptions = {}) {
     this.data = { ...options };
   }
 
