@@ -1,6 +1,6 @@
 {
-  "name": "@nottca/popcat-chatbot",
-  "version": "1.0.0",
+  "name": "popcat-chatbot",
+  "version": "1.0.1",
   "description": "A wrapper of Pop Cat's chatbot API endpoint.",
   "main": "test/index.js",
   "repository": "https://github.com/NotTCA/popcat-chatbot",

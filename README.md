@@ -5,7 +5,7 @@ A wrapper of [Pop Cat](https://popcat.xyz)'s chatbot API endpoint.
 # Usage
 
 ```js
-const { Chatbot } = require("@nottca/popcat-chatbot");
+const { Chatbot } = require("popcat-chatbot");
 
 const chatbot = new Chatbot()
   .setName("PainBot")
